@@ -6,57 +6,35 @@ A cross-platform mobile application built with Flutter that simplifies and autom
 
 Cross-Platform: A single codebase deploys the application on both Android and iOS platforms.
 
-
 Section-wise Data Input: Structured forms for Personal Details, Education, Skills, Experience, Projects, Certifications, and more.
-
 
 Multiple Templates: Choose from several professional and customizable resume templates to fit different fields and roles.
 
-
 Real-time Preview: Instantly preview your resume as you fill in your details.
-
 
 PDF Export: Generate and export your final resume as a high-quality PDF for easy sharing and printing.
 
-
 Input Validation: Ensures completeness and correctness of user data with real-time validation checks.
-
 
 Privacy-Focused: All user data is stored locally on the device; no external server communication is required, ensuring user privacy.
 
-📸 Screenshots
-Splash Screen	Home Screen	Personal Info
-<img src="path/to/splash_screen.jpg" width="250">	<img src="path/to/home_screen.jpg" width="250">	<img src="path/to/personal_info.jpg" width="250">
-
-Export to Sheets
-Skills Section	Template Selection	Additional Info
-<img src="path/to/skills_screen.jpg" width="250">	<img src="path/to/template_selection.jpg" width="250">	<img src="path/to/additional_info.jpg" width="250">
-
-Export to Sheets
 🛠️ Technology Stack
 
 Framework: Flutter (Dart) 
 
-
 IDE: Android Studio / Visual Studio Code 
 
-
 State Management: Provider 
-
 
 Database: Local storage using in-memory structures and a Singleton design pattern 
 
 Key Libraries & Packages:
 
-
 pdf: For generating resumes in PDF format 
-
 
 image_picker: To support profile image uploads 
 
-
 google_fonts: For elegant and custom typography 
-
 
 Version Control: Git & GitHub 
 
@@ -97,30 +75,22 @@ Limited Templates: The app currently supports only a few templates and lacks var
 
 Local Storage Only: All data is stored on the device. Uninstalling the app will result in permanent data loss.
 
-
 No Cloud Sync: Resumes cannot be accessed across multiple devices.
-
 
 Single Language Support: The user interface is currently available only in English.
 
 📈 Future Enhancements
 The project is highly scalable, with several potential features planned for future releases:
 
-
 Cloud Integration: Allow users to save and sync resumes to Google Drive or Dropbox.
-
 
 AI-Powered Suggestions: Integrate AI to provide recommendations for grammar, phrasing, and keyword optimization for Applicant Tracking Systems (ATS).
 
-
 Template Marketplace: Enable users to download or purchase new templates from within the app.
-
 
 Multi-Language Support: Add support for creating resumes in multiple languages like Spanish, French, and Hindi.
 
-
 Dark Mode: Implement a dark theme for a better user experience.
-
 
 Web Version: Extend the application to the web using Flutter Web for desktop usage.
 
@@ -128,7 +98,6 @@ Web Version: Extend the application to the web using Flutter Web for desktop usa
 This project was developed by Drashti Ranpariya (220007006) as part of the B.Tech. Computer Science & Engineering curriculum. 
 
 Acknowledgements
-A special thanks to the project guide and Head of the Department, Ms. Tosal M. Bhalodia
+A special thanks to the project guide and Head of the Department, Ms. Tosal M. Bhalodia , and all the faculty members of the Department of Computer Engineering at Atmiya University, Rajkot, for their invaluable guidance and support.
 
-, and all the faculty members of the Department of Computer Engineering at Atmiya University, Rajkot, for their invaluable guidance and support.
 
