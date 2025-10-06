@@ -75,7 +75,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/resume-builder-app.git
+github https://github.com/DrashtiRanpariya/Drashti-Ranpariya-Mini-Project
 Navigate to the project directory:
 
 Bash
@@ -131,3 +131,4 @@ Acknowledgements
 A special thanks to the project guide and Head of the Department, Ms. Tosal M. Bhalodia
 
 , and all the faculty members of the Department of Computer Engineering at Atmiya University, Rajkot, for their invaluable guidance and support.
+
