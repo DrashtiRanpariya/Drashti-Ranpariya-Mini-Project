@@ -53,7 +53,7 @@ Clone the repository:
 
 Bash
 
-github https://github.com/DrashtiRanpariya/Drashti-Ranpariya-Mini-Project
+git (https://github.com/DrashtiRanpariya/Drashti-Ranpariya-Mini-Project.git)
 Navigate to the project directory:
 
 Bash
@@ -99,5 +99,6 @@ This project was developed by Drashti Ranpariya (220007006) as part of the B.Tec
 
 Acknowledgements
 A special thanks to the project guide and Head of the Department, Ms. Tosal M. Bhalodia , and all the faculty members of the Department of Computer Engineering at Atmiya University, Rajkot, for their invaluable guidance and support.
+
 
 
