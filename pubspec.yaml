@@ -1,0 +1,47 @@
+name: resume_builder_app
+description: "A new Flutter project. Resume Builder"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.2.0
+  font_awesome_flutter: ^10.6.0
+  animate_do: ^4.2.0
+  image_picker: ^1.0.7
+  pdf: ^3.11.0
+  printing: ^5.13.3
+
+  # launcher icon generator (for Android)
+  flutter_launcher_icons: ^0.14.4
+
+# flutter_launcher_icons configuration
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icon.png"
+  # If you later want adaptive icons for Android, you can use:
+  # adaptive_icon_background: "assets/icon/background.png"
+  # adaptive_icon_foreground: "assets/icon/foreground.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/resume.jpg
+    - assets/icon/icon.png
+    - assets/icons/launcher.png
